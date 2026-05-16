@@ -1,0 +1,1 @@
+These are the files required for the deployment of the GenAI application on the Azure using Jenkins as a CI CD pipeline
